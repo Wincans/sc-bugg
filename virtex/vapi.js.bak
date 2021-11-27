@@ -1,0 +1,6 @@
+ const vapi = (prefix) => {
+return `
+`
+}
+
+exports.hole2 = vapi
